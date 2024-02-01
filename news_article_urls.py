@@ -1,0 +1,21 @@
+news_article_urls = [
+  'https://www.cricbuzz.com/cricket-news/120720/chennai-super-kings-reappoint-ms-dhoni-as-captain-ahead-of-ipl-2023',
+  'https://www.cricbuzz.com/cricket-news/120719/ipl-2023-mumbai-indians-retain-rohit-sharma-as-captain',
+  'https://www.cricbuzz.com/cricket-news/120718/ipl-2023-royal-challengers-bangalore-retain-virat-kohli-as-captain',
+  'https://www.cricbuzz.com/cricket-news/120717/ipl-2023-kolkata-knight-riders-retain-eoin-morgan-as-captain',
+  'https://www.cricbuzz.com/cricket-news/120716/ipl-2023-delhi-capitals-retain-ritesh-pant-as-captain',
+  'https://www.cricbuzz.com/cricket-news/120715/ipl-2023-rajasthan-royals-retain-sanju-samson-as-captain',
+  'https://www.cricbuzz.com/cricket-news/120714/ipl-2023-punjab-kings-retain-kl-rahul-as-captain',
+  'https://www.cricbuzz.com/cricket-news/120713/ipl-2023-sunrisers-hyderabad-retain-kane-williamson-as-captain',
+  'https://www.cricbuzz.com/cricket-news/120712/ipl-2023-chennai-super-kings-retain-ms-dhoni-as-captain',
+  'https://www.cricbuzz.com/cricket-news/120711/ipl-2023-mumbai-indians-retain-rohit-sharma-as-captain',
+  'https://www.cricbuzz.com/cricket-news/120710/ipl-2023-royal-challengers-bangalore-retain-virat-kohli-as-captain',
+  'https://www.cricbuzz.com/cricket-news/120709/ipl-2023-kolkata-knight-riders-retain-eoin-morgan-as-captain',
+  'https://www.cricbuzz.com/cricket-news/120708/ipl-2023-delhi-capitals-retain-ritesh-pant-as-captain',
+  'https://www.cricbuzz.com/cricket-news/120707/ipl-2023-rajasthan-royals-retain-sanju-samson-as-captain',
+  'https://www.cricbuzz.com/cricket-news/120706/ipl-2023-punjab-kings-retain-kl-rahul-as-captain',
+  'https://www.cricbuzz.com/cricket-news/120705/ipl-2023-sunrisers-hyderabad-retain-kane-williamson-as-captain',
+  'https://www.cricbuzz.com/cricket-news/120704/ipl-2023-chennai-super-kings-retain-ms-dhoni-as-captain',
+  'https://www.cricbuzz.com/cricket-news/120703/ipl-2023-mumbai-indians-retain-rohit-sharma-as-captain',
+
+]

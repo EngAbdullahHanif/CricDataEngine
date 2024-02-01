@@ -1,0 +1,877 @@
+Position,Name,Country,Rating,Game,Category
+1,Kane Williamson,NEW ZEALAND,864,TEST,Batting
+2,Joe Root,NEW ZEALAND,832,TEST,Batting
+3,Steven Smith,NEW ZEALAND,818,TEST,Batting
+4,Daryl Mitchell,NEW ZEALAND,786,TEST,Batting
+5,Babar Azam,NEW ZEALAND,768,TEST,Batting
+6,Virat Kohli,NEW ZEALAND,767,TEST,Batting
+7,Harry Brook,NEW ZEALAND,765,TEST,Batting
+7,Usman Khawaja,NEW ZEALAND,765,TEST,Batting
+9,Dimuth Karunaratne,NEW ZEALAND,747,TEST,Batting
+10,Marnus Labuschagne,NEW ZEALAND,746,TEST,Batting
+11,Travis Head,NEW ZEALAND,741,TEST,Batting
+12,Rohit Sharma,NEW ZEALAND,729,TEST,Batting
+13,Rishabh Pant,NEW ZEALAND,721,TEST,Batting
+14,Saud Shakeel,NEW ZEALAND,693,TEST,Batting
+15,Ollie Pope,NEW ZEALAND,684,TEST,Batting
+16,Ben Stokes,NEW ZEALAND,682,TEST,Batting
+17,Temba Bavuma,NEW ZEALAND,678,TEST,Batting
+18,Jonny Bairstow,NEW ZEALAND,675,TEST,Batting
+19,Litton Das,NEW ZEALAND,668,TEST,Batting
+19,Mohammad Rizwan,NEW ZEALAND,668,TEST,Batting
+21,Aiden Markram,NEW ZEALAND,667,TEST,Batting
+22,Ben Duckett,NEW ZEALAND,661,TEST,Batting
+23,Dinesh Chandimal,NEW ZEALAND,656,TEST,Batting
+24,Dean Elgar,NEW ZEALAND,654,TEST,Batting
+25,Tom Blundell,NEW ZEALAND,649,TEST,Batting
+26,Dhananjaya de Silva,NEW ZEALAND,647,TEST,Batting
+26,Mushfiqur Rahim,NEW ZEALAND,647,TEST,Batting
+28,Angelo Mathews,NEW ZEALAND,646,TEST,Batting
+29,Tom Latham,NEW ZEALAND,620,TEST,Batting
+30,Zak Crawley,NEW ZEALAND,614,TEST,Batting
+31,David Warner,NEW ZEALAND,611,TEST,Batting
+32,Abdullah Shafique,NEW ZEALAND,608,TEST,Batting
+33,Agha Salman,NEW ZEALAND,605,TEST,Batting
+34,Devon Conway,NEW ZEALAND,602,TEST,Batting
+35,Cheteshwar Pujara,NEW ZEALAND,588,TEST,Batting
+36,Imam-ul-Haq,NEW ZEALAND,584,TEST,Batting
+37,Kraigg Brathwaite,NEW ZEALAND,568,TEST,Batting
+38,Shakib Al Hasan,NEW ZEALAND,566,TEST,Batting
+39,Ravindra Jadeja,NEW ZEALAND,564,TEST,Batting
+40,Henry Nicholls,NEW ZEALAND,562,TEST,Batting
+41,Alex Carey,NEW ZEALAND,557,TEST,Batting
+42,Craig Ervine,NEW ZEALAND,555,TEST,Batting
+43,Ajinkya Rahane,NEW ZEALAND,546,TEST,Batting
+43,Cameron Green,NEW ZEALAND,546,TEST,Batting
+45,Najmul Hossain Shanto,NEW ZEALAND,545,TEST,Batting
+46,Kusal Mendis,NEW ZEALAND,536,TEST,Batting
+47,Tamim Iqbal,NEW ZEALAND,534,TEST,Batting
+48,Shreyas Iyer,NEW ZEALAND,533,TEST,Batting
+49,Jermaine Blackwood,NEW ZEALAND,531,TEST,Batting
+50,Axar Patel,NEW ZEALAND,517,TEST,Batting
+51,KL Rahul,NEW ZEALAND,514,TEST,Batting
+52,Shubman Gill,NEW ZEALAND,509,TEST,Batting
+53,Glenn Phillips,NEW ZEALAND,502,TEST,Batting
+54,Keegan Petersen,NEW ZEALAND,498,TEST,Batting
+55,Mominul Haque,NEW ZEALAND,493,TEST,Batting
+56,Rassie van der Dussen,NEW ZEALAND,487,TEST,Batting
+56,Mitchell Marsh,NEW ZEALAND,487,TEST,Batting
+56,Shan Masood,NEW ZEALAND,487,TEST,Batting
+59,Kyle Verreynne,NEW ZEALAND,486,TEST,Batting
+60,Joshua Da Silva,NEW ZEALAND,482,TEST,Batting
+60,Nkrumah Bonner,NEW ZEALAND,482,TEST,Batting
+62,Niroshan Dickwella,NEW ZEALAND,479,TEST,Batting
+62,Harry Tector,NEW ZEALAND,479,TEST,Batting
+64,Ben Foakes,NEW ZEALAND,475,TEST,Batting
+65,Sarfaraz Ahmed,NEW ZEALAND,471,TEST,Batting
+66,Yashasvi Jaiswal,NEW ZEALAND,461,TEST,Batting
+67,Jason Holder,NEW ZEALAND,450,TEST,Batting
+67,Lorcan Tucker,NEW ZEALAND,450,TEST,Batting
+69,Zakir Hasan,NEW ZEALAND,444,TEST,Batting
+70,Oshada Fernando,NEW ZEALAND,439,TEST,Batting
+71,Ibrahim Zadran,NEW ZEALAND,432,TEST,Batting
+72,Kyle Mayers,NEW ZEALAND,427,TEST,Batting
+73,Sarel Erwee,NEW ZEALAND,424,TEST,Batting
+74,Mahmudul Hasan Joy,NEW ZEALAND,414,TEST,Batting
+75,Marco Jansen,NEW ZEALAND,405,TEST,Batting
+77,Innocent Kaia,NEW ZEALAND,394,TEST,Batting
+78,Ravichandran Ashwin,NEW ZEALAND,385,TEST,Batting
+79,Hashmatullah Shahidi,NEW ZEALAND,380,TEST,Batting
+80,Tagenarine Chanderpaul,NEW ZEALAND,375,TEST,Batting
+82,Rahmat Shah,NEW ZEALAND,366,TEST,Batting
+83,Chris Woakes,NEW ZEALAND,364,TEST,Batting
+84,Roston Chase,NEW ZEALAND,362,TEST,Batting
+85,Faheem Ashraf,NEW ZEALAND,354,TEST,Batting
+86,Nurul Hasan,NEW ZEALAND,350,TEST,Batting
+88,Alick Athanaze,NEW ZEALAND,346,TEST,Batting
+89,Curtis Campher,NEW ZEALAND,336,TEST,Batting
+90,Will Young,NEW ZEALAND,333,TEST,Batting
+91,Nishan Madushka,NEW ZEALAND,329,TEST,Batting
+92,Mitchell Santner,NEW ZEALAND,328,TEST,Batting
+93,Mehidy Hasan Miraz,NEW ZEALAND,327,TEST,Batting
+94,Shamarh Brooks,NEW ZEALAND,313,TEST,Batting
+94,Moeen Ali,NEW ZEALAND,313,TEST,Batting
+96,Andrew Balbirnie,NEW ZEALAND,312,TEST,Batting
+97,Paul Stirling,NEW ZEALAND,305,TEST,Batting
+97,Aamer Jamal,NEW ZEALAND,305,TEST,Batting
+99,Mitchell Starc,NEW ZEALAND,302,TEST,Batting
+100,Peter Handscomb,NEW ZEALAND,299,TEST,Batting
+1,Ravichandran Ashwin,INDIA,853,TEST,Bowling
+2,Kagiso Rabada,INDIA,851,TEST,Bowling
+3,Pat Cummins,INDIA,828,TEST,Bowling
+4,Jasprit Bumrah,INDIA,825,TEST,Bowling
+5,Josh Hazlewood,INDIA,818,TEST,Bowling
+6,Ollie Robinson,INDIA,754,TEST,Bowling
+6,Ravindra Jadeja,INDIA,754,TEST,Bowling
+8,James Anderson,INDIA,753,TEST,Bowling
+9,Prabath Jayasuriya,INDIA,751,TEST,Bowling
+10,Nathan Lyon,INDIA,746,TEST,Bowling
+11,Mitchell Starc,INDIA,737,TEST,Bowling
+12,Shaheen Afridi,INDIA,733,TEST,Bowling
+13,Tim Southee,INDIA,724,TEST,Bowling
+14,Kyle Jamieson,INDIA,708,TEST,Bowling
+15,Taijul Islam,INDIA,706,TEST,Bowling
+16,Anrich Nortje,INDIA,677,TEST,Bowling
+17,Kemar Roach,INDIA,666,TEST,Bowling
+18,Neil Wagner,INDIA,657,TEST,Bowling
+19,Mohammed Siraj,INDIA,625,TEST,Bowling
+20,Mohammed Shami,INDIA,623,TEST,Bowling
+21,Chris Woakes,INDIA,618,TEST,Bowling
+22,Mehidy Hasan Miraz,INDIA,617,TEST,Bowling
+23,Mark Wood,INDIA,616,TEST,Bowling
+24,Marco Jansen,INDIA,604,TEST,Bowling
+25,Jason Holder,INDIA,600,TEST,Bowling
+26,Keshav Maharaj,INDIA,578,TEST,Bowling
+27,Jack Leach,INDIA,572,TEST,Bowling
+28,Lungi Ngidi,INDIA,569,TEST,Bowling
+28,Ramesh Mendis,INDIA,569,TEST,Bowling
+30,Shakib Al Hasan,INDIA,566,TEST,Bowling
+31,Axar Patel,INDIA,562,TEST,Bowling
+32,Matt Henry,INDIA,558,TEST,Bowling
+33,Alzarri Joseph,INDIA,552,TEST,Bowling
+34,Hasan Ali,INDIA,551,TEST,Bowling
+35,Ajaz Patel,INDIA,548,TEST,Bowling
+36,Kyle Mayers,INDIA,540,TEST,Bowling
+37,Umesh Yadav,INDIA,518,TEST,Bowling
+38,Naseem Shah,INDIA,514,TEST,Bowling
+39,Shannon Gabriel,INDIA,501,TEST,Bowling
+41,Asitha Fernando,INDIA,472,TEST,Bowling
+42,Ben Stokes,INDIA,451,TEST,Bowling
+43,Abrar Ahmed,INDIA,449,TEST,Bowling
+44,Aamer Jamal,INDIA,432,TEST,Bowling
+44,Jayden Seales,INDIA,432,TEST,Bowling
+46,Nayeem Hasan,INDIA,426,TEST,Bowling
+47,Kasun Rajitha,INDIA,422,TEST,Bowling
+48,Moeen Ali,INDIA,409,TEST,Bowling
+49,Kuldeep Yadav,INDIA,407,TEST,Bowling
+50,Anneke Bosch,INDIA,397,TEST,Bowling
+50,Lahiru Kumara,INDIA,397,TEST,Bowling
+52,Nandre Burger,INDIA,380,TEST,Bowling
+53,Gudakesh Motie,INDIA,378,TEST,Bowling
+54,Joe Root,INDIA,377,TEST,Bowling
+55,Matthew Potts,INDIA,372,TEST,Bowling
+56,Scott Boland,INDIA,370,TEST,Bowling
+56,Roston Chase,INDIA,370,TEST,Bowling
+58,Shardul Thakur,INDIA,365,TEST,Bowling
+59,Todd Murphy,INDIA,361,TEST,Bowling
+60,Vishwa Fernando,INDIA,360,TEST,Bowling
+61,Josh Tongue,INDIA,342,TEST,Bowling
+62,Shoriful Islam,INDIA,336,TEST,Bowling
+64,Jomel Warrican,INDIA,331,TEST,Bowling
+65,Ebadot Hossain,INDIA,321,TEST,Bowling
+66,Ish Sodhi,INDIA,305,TEST,Bowling
+67,Michael Bracewell,INDIA,298,TEST,Bowling
+68,Cameron Green,INDIA,293,TEST,Bowling
+69,Glenn Phillips,INDIA,290,TEST,Bowling
+70,Amir Hamza,INDIA,288,TEST,Bowling
+71,Simon Harmer,INDIA,282,TEST,Bowling
+71,Rahkeem Cornwall,INDIA,282,TEST,Bowling
+73,Sajid Khan,INDIA,278,TEST,Bowling
+74,Victor Nyauchi,INDIA,276,TEST,Bowling
+75,Blair Tickner,INDIA,261,TEST,Bowling
+75,Mitchell Marsh,INDIA,261,TEST,Bowling
+77,Mitchell Santner,INDIA,260,TEST,Bowling
+78,Wiaan Mulder,INDIA,255,TEST,Bowling
+79,Donald Tiripano,INDIA,237,TEST,Bowling
+80,Mohammad Nawaz,INDIA,236,TEST,Bowling
+80,Yamin Ahmadzai,INDIA,236,TEST,Bowling
+82,Gerald Coetzee,INDIA,231,TEST,Bowling
+83,Zahid Mahmood,INDIA,224,TEST,Bowling
+84,Rehan Ahmed,INDIA,223,TEST,Bowling
+85,Taskin Ahmed,INDIA,222,TEST,Bowling
+86,Brandon Mavuta,INDIA,221,TEST,Bowling
+87,Faheem Ashraf,INDIA,216,TEST,Bowling
+88,Matthew Kuhnemann,INDIA,212,TEST,Bowling
+88,Michael Neser,INDIA,212,TEST,Bowling
+90,Dhananjaya de Silva,INDIA,202,TEST,Bowling
+91,Khaled Ahmed,INDIA,193,TEST,Bowling
+92,Agha Salman,INDIA,191,TEST,Bowling
+93,Mukesh Kumar,INDIA,186,TEST,Bowling
+94,Khurram Shahzad,INDIA,177,TEST,Bowling
+95,Mark Adair,INDIA,173,TEST,Bowling
+95,Mir Hamza,INDIA,173,TEST,Bowling
+97,Andy McBrine,INDIA,171,TEST,Bowling
+98,Zahir Khan,INDIA,165,TEST,Bowling
+99,Kraigg Brathwaite,INDIA,158,TEST,Bowling
+100,Will Jacks,INDIA,141,TEST,Bowling
+1,Ravindra Jadeja,INDIA,425,TEST,All-Rounder
+2,Ravichandran Ashwin,INDIA,328,TEST,All-Rounder
+3,Shakib Al Hasan,INDIA,320,TEST,All-Rounder
+4,Joe Root,INDIA,313,TEST,All-Rounder
+5,Ben Stokes,INDIA,307,TEST,All-Rounder
+6,Axar Patel,INDIA,290,TEST,All-Rounder
+7,Jason Holder,INDIA,270,TEST,All-Rounder
+8,Marco Jansen,INDIA,244,TEST,All-Rounder
+9,Pat Cummins,INDIA,234,TEST,All-Rounder
+10,Kyle Mayers,INDIA,230,TEST,All-Rounder
+11,Chris Woakes,INDIA,224,TEST,All-Rounder
+12,Mitchell Starc,INDIA,222,TEST,All-Rounder
+13,Mehidy Hasan Miraz,INDIA,201,TEST,All-Rounder
+14,Tim Southee,INDIA,199,TEST,All-Rounder
+15,Kyle Jamieson,INDIA,195,TEST,All-Rounder
+16,Kagiso Rabada,INDIA,177,TEST,All-Rounder
+17,Keshav Maharaj,INDIA,164,TEST,All-Rounder
+18,Cameron Green,INDIA,159,TEST,All-Rounder
+19,Nathan Lyon,INDIA,155,TEST,All-Rounder
+20,Neil Wagner,INDIA,153,TEST,All-Rounder
+21,Ramesh Mendis,INDIA,152,TEST,All-Rounder
+21,Ollie Robinson,INDIA,152,TEST,All-Rounder
+23,Glenn Phillips,INDIA,145,TEST,All-Rounder
+24,Matt Henry,INDIA,140,TEST,All-Rounder
+25,Mark Wood,INDIA,138,TEST,All-Rounder
+26,Alzarri Joseph,INDIA,135,TEST,All-Rounder
+27,Roston Chase,INDIA,133,TEST,All-Rounder
+28,Aamer Jamal,INDIA,131,TEST,All-Rounder
+29,Dhananjaya de Silva,INDIA,130,TEST,All-Rounder
+30,Kemar Roach,INDIA,129,TEST,All-Rounder
+31,Moeen Ali,INDIA,128,TEST,All-Rounder
+32,Mitchell Marsh,INDIA,127,TEST,All-Rounder
+33,Agha Salman,INDIA,115,TEST,All-Rounder
+33,Jack Leach,INDIA,115,TEST,All-Rounder
+35,Mohammed Shami,INDIA,110,TEST,All-Rounder
+36,Shardul Thakur,INDIA,108,TEST,All-Rounder
+37,Josh Hazlewood,INDIA,107,TEST,All-Rounder
+38,Travis Head,INDIA,102,TEST,All-Rounder
+39,Hasan Ali,INDIA,95,TEST,All-Rounder
+42,Anneke Bosch,INDIA,91,TEST,All-Rounder
+43,Kane Williamson,INDIA,89,TEST,All-Rounder
+43,Kraigg Brathwaite,INDIA,89,TEST,All-Rounder
+45,Mitchell Santner,INDIA,85,TEST,All-Rounder
+46,Jasprit Bumrah,INDIA,81,TEST,All-Rounder
+47,Anrich Nortje,INDIA,77,TEST,All-Rounder
+48,Angelo Mathews,INDIA,76,TEST,All-Rounder
+48,Faheem Ashraf,INDIA,76,TEST,All-Rounder
+50,Taijul Islam,INDIA,75,TEST,All-Rounder
+51,Shaheen Afridi,INDIA,74,TEST,All-Rounder
+52,James Anderson,INDIA,71,TEST,All-Rounder
+53,Steven Smith,INDIA,68,TEST,All-Rounder
+53,Mominul Haque,INDIA,68,TEST,All-Rounder
+55,Donald Tiripano,INDIA,67,TEST,All-Rounder
+56,Umesh Yadav,INDIA,66,TEST,All-Rounder
+57,Michael Bracewell,INDIA,64,TEST,All-Rounder
+58,Marnus Labuschagne,INDIA,62,TEST,All-Rounder
+59,Ajaz Patel,INDIA,60,TEST,All-Rounder
+60,Wiaan Mulder,INDIA,59,TEST,All-Rounder
+61,Dean Elgar,INDIA,58,TEST,All-Rounder
+62,Simon Harmer,INDIA,57,TEST,All-Rounder
+63,Rahkeem Cornwall,INDIA,56,TEST,All-Rounder
+64,Nayeem Hasan,INDIA,54,TEST,All-Rounder
+65,Todd Murphy,INDIA,49,TEST,All-Rounder
+66,Andy McBrine,INDIA,48,TEST,All-Rounder
+67,Ish Sodhi,INDIA,47,TEST,All-Rounder
+67,Amir Hamza,INDIA,47,TEST,All-Rounder
+69,Mark Adair,INDIA,43,TEST,All-Rounder
+70,Brandon Mavuta,INDIA,40,TEST,All-Rounder
+71,Lungi Ngidi,INDIA,39,TEST,All-Rounder
+72,Jomel Warrican,INDIA,38,TEST,All-Rounder
+72,Mohammed Siraj,INDIA,38,TEST,All-Rounder
+74,Gerald Coetzee,INDIA,37,TEST,All-Rounder
+75,Prabath Jayasuriya,INDIA,36,TEST,All-Rounder
+75,Naseem Shah,INDIA,36,TEST,All-Rounder
+75,Mohammad Nawaz,INDIA,36,TEST,All-Rounder
+78,Kuldeep Yadav,INDIA,31,TEST,All-Rounder
+78,Rehan Ahmed,INDIA,31,TEST,All-Rounder
+80,Gudakesh Motie,INDIA,30,TEST,All-Rounder
+81,Taskin Ahmed,INDIA,29,TEST,All-Rounder
+81,Shoriful Islam,INDIA,29,TEST,All-Rounder
+83,Abrar Ahmed,INDIA,28,TEST,All-Rounder
+84,Kasun Rajitha,INDIA,27,TEST,All-Rounder
+85,Michael Neser,INDIA,26,TEST,All-Rounder
+86,Vishwa Fernando,INDIA,25,TEST,All-Rounder
+86,Sajid Khan,INDIA,25,TEST,All-Rounder
+88,Scott Boland,INDIA,24,TEST,All-Rounder
+89,Josh Tongue,INDIA,23,TEST,All-Rounder
+89,Shannon Gabriel,INDIA,23,TEST,All-Rounder
+91,Matthew Potts,INDIA,19,TEST,All-Rounder
+91,Will Jacks,INDIA,19,TEST,All-Rounder
+93,Daryl Mitchell,INDIA,18,TEST,All-Rounder
+94,Jayden Seales,INDIA,16,TEST,All-Rounder
+96,Lahiru Kumara,INDIA,15,TEST,All-Rounder
+96,Jermaine Blackwood,INDIA,15,TEST,All-Rounder
+98,Aiden Markram,INDIA,14,TEST,All-Rounder
+99,Harry Brook,INDIA,13,TEST,All-Rounder
+100,Nandre Burger,INDIA,12,TEST,All-Rounder
+1,Kane Williamson,NEW ZEALAND,864,ODI,Batting
+2,Joe Root,NEW ZEALAND,832,ODI,Batting
+3,Steven Smith,NEW ZEALAND,818,ODI,Batting
+4,Daryl Mitchell,NEW ZEALAND,786,ODI,Batting
+5,Babar Azam,NEW ZEALAND,768,ODI,Batting
+6,Virat Kohli,NEW ZEALAND,767,ODI,Batting
+7,Harry Brook,NEW ZEALAND,765,ODI,Batting
+7,Usman Khawaja,NEW ZEALAND,765,ODI,Batting
+9,Dimuth Karunaratne,NEW ZEALAND,747,ODI,Batting
+10,Marnus Labuschagne,NEW ZEALAND,746,ODI,Batting
+11,Travis Head,NEW ZEALAND,741,ODI,Batting
+12,Rohit Sharma,NEW ZEALAND,729,ODI,Batting
+13,Rishabh Pant,NEW ZEALAND,721,ODI,Batting
+14,Saud Shakeel,NEW ZEALAND,693,ODI,Batting
+15,Ollie Pope,NEW ZEALAND,684,ODI,Batting
+16,Ben Stokes,NEW ZEALAND,682,ODI,Batting
+17,Temba Bavuma,NEW ZEALAND,678,ODI,Batting
+18,Jonny Bairstow,NEW ZEALAND,675,ODI,Batting
+19,Litton Das,NEW ZEALAND,668,ODI,Batting
+19,Mohammad Rizwan,NEW ZEALAND,668,ODI,Batting
+21,Aiden Markram,NEW ZEALAND,667,ODI,Batting
+22,Ben Duckett,NEW ZEALAND,661,ODI,Batting
+23,Dinesh Chandimal,NEW ZEALAND,656,ODI,Batting
+24,Dean Elgar,NEW ZEALAND,654,ODI,Batting
+25,Tom Blundell,NEW ZEALAND,649,ODI,Batting
+26,Dhananjaya de Silva,NEW ZEALAND,647,ODI,Batting
+26,Mushfiqur Rahim,NEW ZEALAND,647,ODI,Batting
+28,Angelo Mathews,NEW ZEALAND,646,ODI,Batting
+29,Tom Latham,NEW ZEALAND,620,ODI,Batting
+30,Zak Crawley,NEW ZEALAND,614,ODI,Batting
+31,David Warner,NEW ZEALAND,611,ODI,Batting
+32,Abdullah Shafique,NEW ZEALAND,608,ODI,Batting
+33,Agha Salman,NEW ZEALAND,605,ODI,Batting
+34,Devon Conway,NEW ZEALAND,602,ODI,Batting
+35,Cheteshwar Pujara,NEW ZEALAND,588,ODI,Batting
+36,Imam-ul-Haq,NEW ZEALAND,584,ODI,Batting
+37,Kraigg Brathwaite,NEW ZEALAND,568,ODI,Batting
+38,Shakib Al Hasan,NEW ZEALAND,566,ODI,Batting
+39,Ravindra Jadeja,NEW ZEALAND,564,ODI,Batting
+40,Henry Nicholls,NEW ZEALAND,562,ODI,Batting
+41,Alex Carey,NEW ZEALAND,557,ODI,Batting
+42,Craig Ervine,NEW ZEALAND,555,ODI,Batting
+43,Ajinkya Rahane,NEW ZEALAND,546,ODI,Batting
+43,Cameron Green,NEW ZEALAND,546,ODI,Batting
+45,Najmul Hossain Shanto,NEW ZEALAND,545,ODI,Batting
+46,Kusal Mendis,NEW ZEALAND,536,ODI,Batting
+47,Tamim Iqbal,NEW ZEALAND,534,ODI,Batting
+48,Shreyas Iyer,NEW ZEALAND,533,ODI,Batting
+49,Jermaine Blackwood,NEW ZEALAND,531,ODI,Batting
+50,Axar Patel,NEW ZEALAND,517,ODI,Batting
+51,KL Rahul,NEW ZEALAND,514,ODI,Batting
+52,Shubman Gill,NEW ZEALAND,509,ODI,Batting
+53,Glenn Phillips,NEW ZEALAND,502,ODI,Batting
+54,Keegan Petersen,NEW ZEALAND,498,ODI,Batting
+55,Mominul Haque,NEW ZEALAND,493,ODI,Batting
+56,Rassie van der Dussen,NEW ZEALAND,487,ODI,Batting
+56,Mitchell Marsh,NEW ZEALAND,487,ODI,Batting
+56,Shan Masood,NEW ZEALAND,487,ODI,Batting
+59,Kyle Verreynne,NEW ZEALAND,486,ODI,Batting
+60,Joshua Da Silva,NEW ZEALAND,482,ODI,Batting
+60,Nkrumah Bonner,NEW ZEALAND,482,ODI,Batting
+62,Niroshan Dickwella,NEW ZEALAND,479,ODI,Batting
+62,Harry Tector,NEW ZEALAND,479,ODI,Batting
+64,Ben Foakes,NEW ZEALAND,475,ODI,Batting
+65,Sarfaraz Ahmed,NEW ZEALAND,471,ODI,Batting
+66,Yashasvi Jaiswal,NEW ZEALAND,461,ODI,Batting
+67,Jason Holder,NEW ZEALAND,450,ODI,Batting
+67,Lorcan Tucker,NEW ZEALAND,450,ODI,Batting
+69,Zakir Hasan,NEW ZEALAND,444,ODI,Batting
+70,Oshada Fernando,NEW ZEALAND,439,ODI,Batting
+71,Ibrahim Zadran,NEW ZEALAND,432,ODI,Batting
+72,Kyle Mayers,NEW ZEALAND,427,ODI,Batting
+73,Sarel Erwee,NEW ZEALAND,424,ODI,Batting
+74,Mahmudul Hasan Joy,NEW ZEALAND,414,ODI,Batting
+75,Marco Jansen,NEW ZEALAND,405,ODI,Batting
+77,Innocent Kaia,NEW ZEALAND,394,ODI,Batting
+78,Ravichandran Ashwin,NEW ZEALAND,385,ODI,Batting
+79,Hashmatullah Shahidi,NEW ZEALAND,380,ODI,Batting
+80,Tagenarine Chanderpaul,NEW ZEALAND,375,ODI,Batting
+82,Rahmat Shah,NEW ZEALAND,366,ODI,Batting
+83,Chris Woakes,NEW ZEALAND,364,ODI,Batting
+84,Roston Chase,NEW ZEALAND,362,ODI,Batting
+85,Faheem Ashraf,NEW ZEALAND,354,ODI,Batting
+86,Nurul Hasan,NEW ZEALAND,350,ODI,Batting
+88,Alick Athanaze,NEW ZEALAND,346,ODI,Batting
+89,Curtis Campher,NEW ZEALAND,336,ODI,Batting
+90,Will Young,NEW ZEALAND,333,ODI,Batting
+91,Nishan Madushka,NEW ZEALAND,329,ODI,Batting
+92,Mitchell Santner,NEW ZEALAND,328,ODI,Batting
+93,Mehidy Hasan Miraz,NEW ZEALAND,327,ODI,Batting
+94,Shamarh Brooks,NEW ZEALAND,313,ODI,Batting
+94,Moeen Ali,NEW ZEALAND,313,ODI,Batting
+96,Andrew Balbirnie,NEW ZEALAND,312,ODI,Batting
+97,Paul Stirling,NEW ZEALAND,305,ODI,Batting
+97,Aamer Jamal,NEW ZEALAND,305,ODI,Batting
+99,Mitchell Starc,NEW ZEALAND,302,ODI,Batting
+100,Peter Handscomb,NEW ZEALAND,299,ODI,Batting
+1,Ravichandran Ashwin,INDIA,853,ODI,Bowling
+2,Kagiso Rabada,INDIA,851,ODI,Bowling
+3,Pat Cummins,INDIA,828,ODI,Bowling
+4,Jasprit Bumrah,INDIA,825,ODI,Bowling
+5,Josh Hazlewood,INDIA,818,ODI,Bowling
+6,Ollie Robinson,INDIA,754,ODI,Bowling
+6,Ravindra Jadeja,INDIA,754,ODI,Bowling
+8,James Anderson,INDIA,753,ODI,Bowling
+9,Prabath Jayasuriya,INDIA,751,ODI,Bowling
+10,Nathan Lyon,INDIA,746,ODI,Bowling
+11,Mitchell Starc,INDIA,737,ODI,Bowling
+12,Shaheen Afridi,INDIA,733,ODI,Bowling
+13,Tim Southee,INDIA,724,ODI,Bowling
+14,Kyle Jamieson,INDIA,708,ODI,Bowling
+15,Taijul Islam,INDIA,706,ODI,Bowling
+16,Anrich Nortje,INDIA,677,ODI,Bowling
+17,Kemar Roach,INDIA,666,ODI,Bowling
+18,Neil Wagner,INDIA,657,ODI,Bowling
+19,Mohammed Siraj,INDIA,625,ODI,Bowling
+20,Mohammed Shami,INDIA,623,ODI,Bowling
+21,Chris Woakes,INDIA,618,ODI,Bowling
+22,Mehidy Hasan Miraz,INDIA,617,ODI,Bowling
+23,Mark Wood,INDIA,616,ODI,Bowling
+24,Marco Jansen,INDIA,604,ODI,Bowling
+25,Jason Holder,INDIA,600,ODI,Bowling
+26,Keshav Maharaj,INDIA,578,ODI,Bowling
+27,Jack Leach,INDIA,572,ODI,Bowling
+28,Lungi Ngidi,INDIA,569,ODI,Bowling
+28,Ramesh Mendis,INDIA,569,ODI,Bowling
+30,Shakib Al Hasan,INDIA,566,ODI,Bowling
+31,Axar Patel,INDIA,562,ODI,Bowling
+32,Matt Henry,INDIA,558,ODI,Bowling
+33,Alzarri Joseph,INDIA,552,ODI,Bowling
+34,Hasan Ali,INDIA,551,ODI,Bowling
+35,Ajaz Patel,INDIA,548,ODI,Bowling
+36,Kyle Mayers,INDIA,540,ODI,Bowling
+37,Umesh Yadav,INDIA,518,ODI,Bowling
+38,Naseem Shah,INDIA,514,ODI,Bowling
+39,Shannon Gabriel,INDIA,501,ODI,Bowling
+41,Asitha Fernando,INDIA,472,ODI,Bowling
+42,Ben Stokes,INDIA,451,ODI,Bowling
+43,Abrar Ahmed,INDIA,449,ODI,Bowling
+44,Aamer Jamal,INDIA,432,ODI,Bowling
+44,Jayden Seales,INDIA,432,ODI,Bowling
+46,Nayeem Hasan,INDIA,426,ODI,Bowling
+47,Kasun Rajitha,INDIA,422,ODI,Bowling
+48,Moeen Ali,INDIA,409,ODI,Bowling
+49,Kuldeep Yadav,INDIA,407,ODI,Bowling
+50,Anneke Bosch,INDIA,397,ODI,Bowling
+50,Lahiru Kumara,INDIA,397,ODI,Bowling
+52,Nandre Burger,INDIA,380,ODI,Bowling
+53,Gudakesh Motie,INDIA,378,ODI,Bowling
+54,Joe Root,INDIA,377,ODI,Bowling
+55,Matthew Potts,INDIA,372,ODI,Bowling
+56,Scott Boland,INDIA,370,ODI,Bowling
+56,Roston Chase,INDIA,370,ODI,Bowling
+58,Shardul Thakur,INDIA,365,ODI,Bowling
+59,Todd Murphy,INDIA,361,ODI,Bowling
+60,Vishwa Fernando,INDIA,360,ODI,Bowling
+61,Josh Tongue,INDIA,342,ODI,Bowling
+62,Shoriful Islam,INDIA,336,ODI,Bowling
+64,Jomel Warrican,INDIA,331,ODI,Bowling
+65,Ebadot Hossain,INDIA,321,ODI,Bowling
+66,Ish Sodhi,INDIA,305,ODI,Bowling
+67,Michael Bracewell,INDIA,298,ODI,Bowling
+68,Cameron Green,INDIA,293,ODI,Bowling
+69,Glenn Phillips,INDIA,290,ODI,Bowling
+70,Amir Hamza,INDIA,288,ODI,Bowling
+71,Simon Harmer,INDIA,282,ODI,Bowling
+71,Rahkeem Cornwall,INDIA,282,ODI,Bowling
+73,Sajid Khan,INDIA,278,ODI,Bowling
+74,Victor Nyauchi,INDIA,276,ODI,Bowling
+75,Blair Tickner,INDIA,261,ODI,Bowling
+75,Mitchell Marsh,INDIA,261,ODI,Bowling
+77,Mitchell Santner,INDIA,260,ODI,Bowling
+78,Wiaan Mulder,INDIA,255,ODI,Bowling
+79,Donald Tiripano,INDIA,237,ODI,Bowling
+80,Mohammad Nawaz,INDIA,236,ODI,Bowling
+80,Yamin Ahmadzai,INDIA,236,ODI,Bowling
+82,Gerald Coetzee,INDIA,231,ODI,Bowling
+83,Zahid Mahmood,INDIA,224,ODI,Bowling
+84,Rehan Ahmed,INDIA,223,ODI,Bowling
+85,Taskin Ahmed,INDIA,222,ODI,Bowling
+86,Brandon Mavuta,INDIA,221,ODI,Bowling
+87,Faheem Ashraf,INDIA,216,ODI,Bowling
+88,Matthew Kuhnemann,INDIA,212,ODI,Bowling
+88,Michael Neser,INDIA,212,ODI,Bowling
+90,Dhananjaya de Silva,INDIA,202,ODI,Bowling
+91,Khaled Ahmed,INDIA,193,ODI,Bowling
+92,Agha Salman,INDIA,191,ODI,Bowling
+93,Mukesh Kumar,INDIA,186,ODI,Bowling
+94,Khurram Shahzad,INDIA,177,ODI,Bowling
+95,Mark Adair,INDIA,173,ODI,Bowling
+95,Mir Hamza,INDIA,173,ODI,Bowling
+97,Andy McBrine,INDIA,171,ODI,Bowling
+98,Zahir Khan,INDIA,165,ODI,Bowling
+99,Kraigg Brathwaite,INDIA,158,ODI,Bowling
+100,Will Jacks,INDIA,141,ODI,Bowling
+1,Ravindra Jadeja,INDIA,425,ODI,All-Rounder
+2,Ravichandran Ashwin,INDIA,328,ODI,All-Rounder
+3,Shakib Al Hasan,INDIA,320,ODI,All-Rounder
+4,Joe Root,INDIA,313,ODI,All-Rounder
+5,Ben Stokes,INDIA,307,ODI,All-Rounder
+6,Axar Patel,INDIA,290,ODI,All-Rounder
+7,Jason Holder,INDIA,270,ODI,All-Rounder
+8,Marco Jansen,INDIA,244,ODI,All-Rounder
+9,Pat Cummins,INDIA,234,ODI,All-Rounder
+10,Kyle Mayers,INDIA,230,ODI,All-Rounder
+11,Chris Woakes,INDIA,224,ODI,All-Rounder
+12,Mitchell Starc,INDIA,222,ODI,All-Rounder
+13,Mehidy Hasan Miraz,INDIA,201,ODI,All-Rounder
+14,Tim Southee,INDIA,199,ODI,All-Rounder
+15,Kyle Jamieson,INDIA,195,ODI,All-Rounder
+16,Kagiso Rabada,INDIA,177,ODI,All-Rounder
+17,Keshav Maharaj,INDIA,164,ODI,All-Rounder
+18,Cameron Green,INDIA,159,ODI,All-Rounder
+19,Nathan Lyon,INDIA,155,ODI,All-Rounder
+20,Neil Wagner,INDIA,153,ODI,All-Rounder
+21,Ramesh Mendis,INDIA,152,ODI,All-Rounder
+21,Ollie Robinson,INDIA,152,ODI,All-Rounder
+23,Glenn Phillips,INDIA,145,ODI,All-Rounder
+24,Matt Henry,INDIA,140,ODI,All-Rounder
+25,Mark Wood,INDIA,138,ODI,All-Rounder
+26,Alzarri Joseph,INDIA,135,ODI,All-Rounder
+27,Roston Chase,INDIA,133,ODI,All-Rounder
+28,Aamer Jamal,INDIA,131,ODI,All-Rounder
+29,Dhananjaya de Silva,INDIA,130,ODI,All-Rounder
+30,Kemar Roach,INDIA,129,ODI,All-Rounder
+31,Moeen Ali,INDIA,128,ODI,All-Rounder
+32,Mitchell Marsh,INDIA,127,ODI,All-Rounder
+33,Agha Salman,INDIA,115,ODI,All-Rounder
+33,Jack Leach,INDIA,115,ODI,All-Rounder
+35,Mohammed Shami,INDIA,110,ODI,All-Rounder
+36,Shardul Thakur,INDIA,108,ODI,All-Rounder
+37,Josh Hazlewood,INDIA,107,ODI,All-Rounder
+38,Travis Head,INDIA,102,ODI,All-Rounder
+39,Hasan Ali,INDIA,95,ODI,All-Rounder
+42,Anneke Bosch,INDIA,91,ODI,All-Rounder
+43,Kane Williamson,INDIA,89,ODI,All-Rounder
+43,Kraigg Brathwaite,INDIA,89,ODI,All-Rounder
+45,Mitchell Santner,INDIA,85,ODI,All-Rounder
+46,Jasprit Bumrah,INDIA,81,ODI,All-Rounder
+47,Anrich Nortje,INDIA,77,ODI,All-Rounder
+48,Angelo Mathews,INDIA,76,ODI,All-Rounder
+48,Faheem Ashraf,INDIA,76,ODI,All-Rounder
+50,Taijul Islam,INDIA,75,ODI,All-Rounder
+51,Shaheen Afridi,INDIA,74,ODI,All-Rounder
+52,James Anderson,INDIA,71,ODI,All-Rounder
+53,Steven Smith,INDIA,68,ODI,All-Rounder
+53,Mominul Haque,INDIA,68,ODI,All-Rounder
+55,Donald Tiripano,INDIA,67,ODI,All-Rounder
+56,Umesh Yadav,INDIA,66,ODI,All-Rounder
+57,Michael Bracewell,INDIA,64,ODI,All-Rounder
+58,Marnus Labuschagne,INDIA,62,ODI,All-Rounder
+59,Ajaz Patel,INDIA,60,ODI,All-Rounder
+60,Wiaan Mulder,INDIA,59,ODI,All-Rounder
+61,Dean Elgar,INDIA,58,ODI,All-Rounder
+62,Simon Harmer,INDIA,57,ODI,All-Rounder
+63,Rahkeem Cornwall,INDIA,56,ODI,All-Rounder
+64,Nayeem Hasan,INDIA,54,ODI,All-Rounder
+65,Todd Murphy,INDIA,49,ODI,All-Rounder
+66,Andy McBrine,INDIA,48,ODI,All-Rounder
+67,Ish Sodhi,INDIA,47,ODI,All-Rounder
+67,Amir Hamza,INDIA,47,ODI,All-Rounder
+69,Mark Adair,INDIA,43,ODI,All-Rounder
+70,Brandon Mavuta,INDIA,40,ODI,All-Rounder
+71,Lungi Ngidi,INDIA,39,ODI,All-Rounder
+72,Jomel Warrican,INDIA,38,ODI,All-Rounder
+72,Mohammed Siraj,INDIA,38,ODI,All-Rounder
+74,Gerald Coetzee,INDIA,37,ODI,All-Rounder
+75,Prabath Jayasuriya,INDIA,36,ODI,All-Rounder
+75,Naseem Shah,INDIA,36,ODI,All-Rounder
+75,Mohammad Nawaz,INDIA,36,ODI,All-Rounder
+78,Kuldeep Yadav,INDIA,31,ODI,All-Rounder
+78,Rehan Ahmed,INDIA,31,ODI,All-Rounder
+80,Gudakesh Motie,INDIA,30,ODI,All-Rounder
+81,Taskin Ahmed,INDIA,29,ODI,All-Rounder
+81,Shoriful Islam,INDIA,29,ODI,All-Rounder
+83,Abrar Ahmed,INDIA,28,ODI,All-Rounder
+84,Kasun Rajitha,INDIA,27,ODI,All-Rounder
+85,Michael Neser,INDIA,26,ODI,All-Rounder
+86,Vishwa Fernando,INDIA,25,ODI,All-Rounder
+86,Sajid Khan,INDIA,25,ODI,All-Rounder
+88,Scott Boland,INDIA,24,ODI,All-Rounder
+89,Josh Tongue,INDIA,23,ODI,All-Rounder
+89,Shannon Gabriel,INDIA,23,ODI,All-Rounder
+91,Matthew Potts,INDIA,19,ODI,All-Rounder
+91,Will Jacks,INDIA,19,ODI,All-Rounder
+93,Daryl Mitchell,INDIA,18,ODI,All-Rounder
+94,Jayden Seales,INDIA,16,ODI,All-Rounder
+96,Lahiru Kumara,INDIA,15,ODI,All-Rounder
+96,Jermaine Blackwood,INDIA,15,ODI,All-Rounder
+98,Aiden Markram,INDIA,14,ODI,All-Rounder
+99,Harry Brook,INDIA,13,ODI,All-Rounder
+100,Nandre Burger,INDIA,12,ODI,All-Rounder
+1,Kane Williamson,NEW ZEALAND,864,T20,Batting
+2,Joe Root,NEW ZEALAND,832,T20,Batting
+3,Steven Smith,NEW ZEALAND,818,T20,Batting
+4,Daryl Mitchell,NEW ZEALAND,786,T20,Batting
+5,Babar Azam,NEW ZEALAND,768,T20,Batting
+6,Virat Kohli,NEW ZEALAND,767,T20,Batting
+7,Harry Brook,NEW ZEALAND,765,T20,Batting
+7,Usman Khawaja,NEW ZEALAND,765,T20,Batting
+9,Dimuth Karunaratne,NEW ZEALAND,747,T20,Batting
+10,Marnus Labuschagne,NEW ZEALAND,746,T20,Batting
+11,Travis Head,NEW ZEALAND,741,T20,Batting
+12,Rohit Sharma,NEW ZEALAND,729,T20,Batting
+13,Rishabh Pant,NEW ZEALAND,721,T20,Batting
+14,Saud Shakeel,NEW ZEALAND,693,T20,Batting
+15,Ollie Pope,NEW ZEALAND,684,T20,Batting
+16,Ben Stokes,NEW ZEALAND,682,T20,Batting
+17,Temba Bavuma,NEW ZEALAND,678,T20,Batting
+18,Jonny Bairstow,NEW ZEALAND,675,T20,Batting
+19,Litton Das,NEW ZEALAND,668,T20,Batting
+19,Mohammad Rizwan,NEW ZEALAND,668,T20,Batting
+21,Aiden Markram,NEW ZEALAND,667,T20,Batting
+22,Ben Duckett,NEW ZEALAND,661,T20,Batting
+23,Dinesh Chandimal,NEW ZEALAND,656,T20,Batting
+24,Dean Elgar,NEW ZEALAND,654,T20,Batting
+25,Tom Blundell,NEW ZEALAND,649,T20,Batting
+26,Dhananjaya de Silva,NEW ZEALAND,647,T20,Batting
+26,Mushfiqur Rahim,NEW ZEALAND,647,T20,Batting
+28,Angelo Mathews,NEW ZEALAND,646,T20,Batting
+29,Tom Latham,NEW ZEALAND,620,T20,Batting
+30,Zak Crawley,NEW ZEALAND,614,T20,Batting
+31,David Warner,NEW ZEALAND,611,T20,Batting
+32,Abdullah Shafique,NEW ZEALAND,608,T20,Batting
+33,Agha Salman,NEW ZEALAND,605,T20,Batting
+34,Devon Conway,NEW ZEALAND,602,T20,Batting
+35,Cheteshwar Pujara,NEW ZEALAND,588,T20,Batting
+36,Imam-ul-Haq,NEW ZEALAND,584,T20,Batting
+37,Kraigg Brathwaite,NEW ZEALAND,568,T20,Batting
+38,Shakib Al Hasan,NEW ZEALAND,566,T20,Batting
+39,Ravindra Jadeja,NEW ZEALAND,564,T20,Batting
+40,Henry Nicholls,NEW ZEALAND,562,T20,Batting
+41,Alex Carey,NEW ZEALAND,557,T20,Batting
+42,Craig Ervine,NEW ZEALAND,555,T20,Batting
+43,Ajinkya Rahane,NEW ZEALAND,546,T20,Batting
+43,Cameron Green,NEW ZEALAND,546,T20,Batting
+45,Najmul Hossain Shanto,NEW ZEALAND,545,T20,Batting
+46,Kusal Mendis,NEW ZEALAND,536,T20,Batting
+47,Tamim Iqbal,NEW ZEALAND,534,T20,Batting
+48,Shreyas Iyer,NEW ZEALAND,533,T20,Batting
+49,Jermaine Blackwood,NEW ZEALAND,531,T20,Batting
+50,Axar Patel,NEW ZEALAND,517,T20,Batting
+51,KL Rahul,NEW ZEALAND,514,T20,Batting
+52,Shubman Gill,NEW ZEALAND,509,T20,Batting
+53,Glenn Phillips,NEW ZEALAND,502,T20,Batting
+54,Keegan Petersen,NEW ZEALAND,498,T20,Batting
+55,Mominul Haque,NEW ZEALAND,493,T20,Batting
+56,Rassie van der Dussen,NEW ZEALAND,487,T20,Batting
+56,Mitchell Marsh,NEW ZEALAND,487,T20,Batting
+56,Shan Masood,NEW ZEALAND,487,T20,Batting
+59,Kyle Verreynne,NEW ZEALAND,486,T20,Batting
+60,Joshua Da Silva,NEW ZEALAND,482,T20,Batting
+60,Nkrumah Bonner,NEW ZEALAND,482,T20,Batting
+62,Niroshan Dickwella,NEW ZEALAND,479,T20,Batting
+62,Harry Tector,NEW ZEALAND,479,T20,Batting
+64,Ben Foakes,NEW ZEALAND,475,T20,Batting
+65,Sarfaraz Ahmed,NEW ZEALAND,471,T20,Batting
+66,Yashasvi Jaiswal,NEW ZEALAND,461,T20,Batting
+67,Jason Holder,NEW ZEALAND,450,T20,Batting
+67,Lorcan Tucker,NEW ZEALAND,450,T20,Batting
+69,Zakir Hasan,NEW ZEALAND,444,T20,Batting
+70,Oshada Fernando,NEW ZEALAND,439,T20,Batting
+71,Ibrahim Zadran,NEW ZEALAND,432,T20,Batting
+72,Kyle Mayers,NEW ZEALAND,427,T20,Batting
+73,Sarel Erwee,NEW ZEALAND,424,T20,Batting
+74,Mahmudul Hasan Joy,NEW ZEALAND,414,T20,Batting
+75,Marco Jansen,NEW ZEALAND,405,T20,Batting
+77,Innocent Kaia,NEW ZEALAND,394,T20,Batting
+78,Ravichandran Ashwin,NEW ZEALAND,385,T20,Batting
+79,Hashmatullah Shahidi,NEW ZEALAND,380,T20,Batting
+80,Tagenarine Chanderpaul,NEW ZEALAND,375,T20,Batting
+82,Rahmat Shah,NEW ZEALAND,366,T20,Batting
+83,Chris Woakes,NEW ZEALAND,364,T20,Batting
+84,Roston Chase,NEW ZEALAND,362,T20,Batting
+85,Faheem Ashraf,NEW ZEALAND,354,T20,Batting
+86,Nurul Hasan,NEW ZEALAND,350,T20,Batting
+88,Alick Athanaze,NEW ZEALAND,346,T20,Batting
+89,Curtis Campher,NEW ZEALAND,336,T20,Batting
+90,Will Young,NEW ZEALAND,333,T20,Batting
+91,Nishan Madushka,NEW ZEALAND,329,T20,Batting
+92,Mitchell Santner,NEW ZEALAND,328,T20,Batting
+93,Mehidy Hasan Miraz,NEW ZEALAND,327,T20,Batting
+94,Shamarh Brooks,NEW ZEALAND,313,T20,Batting
+94,Moeen Ali,NEW ZEALAND,313,T20,Batting
+96,Andrew Balbirnie,NEW ZEALAND,312,T20,Batting
+97,Paul Stirling,NEW ZEALAND,305,T20,Batting
+97,Aamer Jamal,NEW ZEALAND,305,T20,Batting
+99,Mitchell Starc,NEW ZEALAND,302,T20,Batting
+100,Peter Handscomb,NEW ZEALAND,299,T20,Batting
+1,Ravichandran Ashwin,INDIA,853,T20,Bowling
+2,Kagiso Rabada,INDIA,851,T20,Bowling
+3,Pat Cummins,INDIA,828,T20,Bowling
+4,Jasprit Bumrah,INDIA,825,T20,Bowling
+5,Josh Hazlewood,INDIA,818,T20,Bowling
+6,Ollie Robinson,INDIA,754,T20,Bowling
+6,Ravindra Jadeja,INDIA,754,T20,Bowling
+8,James Anderson,INDIA,753,T20,Bowling
+9,Prabath Jayasuriya,INDIA,751,T20,Bowling
+10,Nathan Lyon,INDIA,746,T20,Bowling
+11,Mitchell Starc,INDIA,737,T20,Bowling
+12,Shaheen Afridi,INDIA,733,T20,Bowling
+13,Tim Southee,INDIA,724,T20,Bowling
+14,Kyle Jamieson,INDIA,708,T20,Bowling
+15,Taijul Islam,INDIA,706,T20,Bowling
+16,Anrich Nortje,INDIA,677,T20,Bowling
+17,Kemar Roach,INDIA,666,T20,Bowling
+18,Neil Wagner,INDIA,657,T20,Bowling
+19,Mohammed Siraj,INDIA,625,T20,Bowling
+20,Mohammed Shami,INDIA,623,T20,Bowling
+21,Chris Woakes,INDIA,618,T20,Bowling
+22,Mehidy Hasan Miraz,INDIA,617,T20,Bowling
+23,Mark Wood,INDIA,616,T20,Bowling
+24,Marco Jansen,INDIA,604,T20,Bowling
+25,Jason Holder,INDIA,600,T20,Bowling
+26,Keshav Maharaj,INDIA,578,T20,Bowling
+27,Jack Leach,INDIA,572,T20,Bowling
+28,Lungi Ngidi,INDIA,569,T20,Bowling
+28,Ramesh Mendis,INDIA,569,T20,Bowling
+30,Shakib Al Hasan,INDIA,566,T20,Bowling
+31,Axar Patel,INDIA,562,T20,Bowling
+32,Matt Henry,INDIA,558,T20,Bowling
+33,Alzarri Joseph,INDIA,552,T20,Bowling
+34,Hasan Ali,INDIA,551,T20,Bowling
+35,Ajaz Patel,INDIA,548,T20,Bowling
+36,Kyle Mayers,INDIA,540,T20,Bowling
+37,Umesh Yadav,INDIA,518,T20,Bowling
+38,Naseem Shah,INDIA,514,T20,Bowling
+39,Shannon Gabriel,INDIA,501,T20,Bowling
+41,Asitha Fernando,INDIA,472,T20,Bowling
+42,Ben Stokes,INDIA,451,T20,Bowling
+43,Abrar Ahmed,INDIA,449,T20,Bowling
+44,Aamer Jamal,INDIA,432,T20,Bowling
+44,Jayden Seales,INDIA,432,T20,Bowling
+46,Nayeem Hasan,INDIA,426,T20,Bowling
+47,Kasun Rajitha,INDIA,422,T20,Bowling
+48,Moeen Ali,INDIA,409,T20,Bowling
+49,Kuldeep Yadav,INDIA,407,T20,Bowling
+50,Anneke Bosch,INDIA,397,T20,Bowling
+50,Lahiru Kumara,INDIA,397,T20,Bowling
+52,Nandre Burger,INDIA,380,T20,Bowling
+53,Gudakesh Motie,INDIA,378,T20,Bowling
+54,Joe Root,INDIA,377,T20,Bowling
+55,Matthew Potts,INDIA,372,T20,Bowling
+56,Scott Boland,INDIA,370,T20,Bowling
+56,Roston Chase,INDIA,370,T20,Bowling
+58,Shardul Thakur,INDIA,365,T20,Bowling
+59,Todd Murphy,INDIA,361,T20,Bowling
+60,Vishwa Fernando,INDIA,360,T20,Bowling
+61,Josh Tongue,INDIA,342,T20,Bowling
+62,Shoriful Islam,INDIA,336,T20,Bowling
+64,Jomel Warrican,INDIA,331,T20,Bowling
+65,Ebadot Hossain,INDIA,321,T20,Bowling
+66,Ish Sodhi,INDIA,305,T20,Bowling
+67,Michael Bracewell,INDIA,298,T20,Bowling
+68,Cameron Green,INDIA,293,T20,Bowling
+69,Glenn Phillips,INDIA,290,T20,Bowling
+70,Amir Hamza,INDIA,288,T20,Bowling
+71,Simon Harmer,INDIA,282,T20,Bowling
+71,Rahkeem Cornwall,INDIA,282,T20,Bowling
+73,Sajid Khan,INDIA,278,T20,Bowling
+74,Victor Nyauchi,INDIA,276,T20,Bowling
+75,Blair Tickner,INDIA,261,T20,Bowling
+75,Mitchell Marsh,INDIA,261,T20,Bowling
+77,Mitchell Santner,INDIA,260,T20,Bowling
+78,Wiaan Mulder,INDIA,255,T20,Bowling
+79,Donald Tiripano,INDIA,237,T20,Bowling
+80,Mohammad Nawaz,INDIA,236,T20,Bowling
+80,Yamin Ahmadzai,INDIA,236,T20,Bowling
+82,Gerald Coetzee,INDIA,231,T20,Bowling
+83,Zahid Mahmood,INDIA,224,T20,Bowling
+84,Rehan Ahmed,INDIA,223,T20,Bowling
+85,Taskin Ahmed,INDIA,222,T20,Bowling
+86,Brandon Mavuta,INDIA,221,T20,Bowling
+87,Faheem Ashraf,INDIA,216,T20,Bowling
+88,Matthew Kuhnemann,INDIA,212,T20,Bowling
+88,Michael Neser,INDIA,212,T20,Bowling
+90,Dhananjaya de Silva,INDIA,202,T20,Bowling
+91,Khaled Ahmed,INDIA,193,T20,Bowling
+92,Agha Salman,INDIA,191,T20,Bowling
+93,Mukesh Kumar,INDIA,186,T20,Bowling
+94,Khurram Shahzad,INDIA,177,T20,Bowling
+95,Mark Adair,INDIA,173,T20,Bowling
+95,Mir Hamza,INDIA,173,T20,Bowling
+97,Andy McBrine,INDIA,171,T20,Bowling
+98,Zahir Khan,INDIA,165,T20,Bowling
+99,Kraigg Brathwaite,INDIA,158,T20,Bowling
+100,Will Jacks,INDIA,141,T20,Bowling
+1,Ravindra Jadeja,INDIA,425,T20,All-Rounder
+2,Ravichandran Ashwin,INDIA,328,T20,All-Rounder
+3,Shakib Al Hasan,INDIA,320,T20,All-Rounder
+4,Joe Root,INDIA,313,T20,All-Rounder
+5,Ben Stokes,INDIA,307,T20,All-Rounder
+6,Axar Patel,INDIA,290,T20,All-Rounder
+7,Jason Holder,INDIA,270,T20,All-Rounder
+8,Marco Jansen,INDIA,244,T20,All-Rounder
+9,Pat Cummins,INDIA,234,T20,All-Rounder
+10,Kyle Mayers,INDIA,230,T20,All-Rounder
+11,Chris Woakes,INDIA,224,T20,All-Rounder
+12,Mitchell Starc,INDIA,222,T20,All-Rounder
+13,Mehidy Hasan Miraz,INDIA,201,T20,All-Rounder
+14,Tim Southee,INDIA,199,T20,All-Rounder
+15,Kyle Jamieson,INDIA,195,T20,All-Rounder
+16,Kagiso Rabada,INDIA,177,T20,All-Rounder
+17,Keshav Maharaj,INDIA,164,T20,All-Rounder
+18,Cameron Green,INDIA,159,T20,All-Rounder
+19,Nathan Lyon,INDIA,155,T20,All-Rounder
+20,Neil Wagner,INDIA,153,T20,All-Rounder
+21,Ramesh Mendis,INDIA,152,T20,All-Rounder
+21,Ollie Robinson,INDIA,152,T20,All-Rounder
+23,Glenn Phillips,INDIA,145,T20,All-Rounder
+24,Matt Henry,INDIA,140,T20,All-Rounder
+25,Mark Wood,INDIA,138,T20,All-Rounder
+26,Alzarri Joseph,INDIA,135,T20,All-Rounder
+27,Roston Chase,INDIA,133,T20,All-Rounder
+28,Aamer Jamal,INDIA,131,T20,All-Rounder
+29,Dhananjaya de Silva,INDIA,130,T20,All-Rounder
+30,Kemar Roach,INDIA,129,T20,All-Rounder
+31,Moeen Ali,INDIA,128,T20,All-Rounder
+32,Mitchell Marsh,INDIA,127,T20,All-Rounder
+33,Agha Salman,INDIA,115,T20,All-Rounder
+33,Jack Leach,INDIA,115,T20,All-Rounder
+35,Mohammed Shami,INDIA,110,T20,All-Rounder
+36,Shardul Thakur,INDIA,108,T20,All-Rounder
+37,Josh Hazlewood,INDIA,107,T20,All-Rounder
+38,Travis Head,INDIA,102,T20,All-Rounder
+39,Hasan Ali,INDIA,95,T20,All-Rounder
+42,Anneke Bosch,INDIA,91,T20,All-Rounder
+43,Kane Williamson,INDIA,89,T20,All-Rounder
+43,Kraigg Brathwaite,INDIA,89,T20,All-Rounder
+45,Mitchell Santner,INDIA,85,T20,All-Rounder
+46,Jasprit Bumrah,INDIA,81,T20,All-Rounder
+47,Anrich Nortje,INDIA,77,T20,All-Rounder
+48,Angelo Mathews,INDIA,76,T20,All-Rounder
+48,Faheem Ashraf,INDIA,76,T20,All-Rounder
+50,Taijul Islam,INDIA,75,T20,All-Rounder
+51,Shaheen Afridi,INDIA,74,T20,All-Rounder
+52,James Anderson,INDIA,71,T20,All-Rounder
+53,Steven Smith,INDIA,68,T20,All-Rounder
+53,Mominul Haque,INDIA,68,T20,All-Rounder
+55,Donald Tiripano,INDIA,67,T20,All-Rounder
+56,Umesh Yadav,INDIA,66,T20,All-Rounder
+57,Michael Bracewell,INDIA,64,T20,All-Rounder
+58,Marnus Labuschagne,INDIA,62,T20,All-Rounder
+59,Ajaz Patel,INDIA,60,T20,All-Rounder
+60,Wiaan Mulder,INDIA,59,T20,All-Rounder
+61,Dean Elgar,INDIA,58,T20,All-Rounder
+62,Simon Harmer,INDIA,57,T20,All-Rounder
+63,Rahkeem Cornwall,INDIA,56,T20,All-Rounder
+64,Nayeem Hasan,INDIA,54,T20,All-Rounder
+65,Todd Murphy,INDIA,49,T20,All-Rounder
+66,Andy McBrine,INDIA,48,T20,All-Rounder
+67,Ish Sodhi,INDIA,47,T20,All-Rounder
+67,Amir Hamza,INDIA,47,T20,All-Rounder
+69,Mark Adair,INDIA,43,T20,All-Rounder
+70,Brandon Mavuta,INDIA,40,T20,All-Rounder
+71,Lungi Ngidi,INDIA,39,T20,All-Rounder
+72,Jomel Warrican,INDIA,38,T20,All-Rounder
+72,Mohammed Siraj,INDIA,38,T20,All-Rounder
+74,Gerald Coetzee,INDIA,37,T20,All-Rounder
+75,Prabath Jayasuriya,INDIA,36,T20,All-Rounder
+75,Naseem Shah,INDIA,36,T20,All-Rounder
+75,Mohammad Nawaz,INDIA,36,T20,All-Rounder
+78,Kuldeep Yadav,INDIA,31,T20,All-Rounder
+78,Rehan Ahmed,INDIA,31,T20,All-Rounder
+80,Gudakesh Motie,INDIA,30,T20,All-Rounder
+81,Taskin Ahmed,INDIA,29,T20,All-Rounder
+81,Shoriful Islam,INDIA,29,T20,All-Rounder
+83,Abrar Ahmed,INDIA,28,T20,All-Rounder
+84,Kasun Rajitha,INDIA,27,T20,All-Rounder
+85,Michael Neser,INDIA,26,T20,All-Rounder
+86,Vishwa Fernando,INDIA,25,T20,All-Rounder
+86,Sajid Khan,INDIA,25,T20,All-Rounder
+88,Scott Boland,INDIA,24,T20,All-Rounder
+89,Josh Tongue,INDIA,23,T20,All-Rounder
+89,Shannon Gabriel,INDIA,23,T20,All-Rounder
+91,Matthew Potts,INDIA,19,T20,All-Rounder
+91,Will Jacks,INDIA,19,T20,All-Rounder
+93,Daryl Mitchell,INDIA,18,T20,All-Rounder
+94,Jayden Seales,INDIA,16,T20,All-Rounder
+96,Lahiru Kumara,INDIA,15,T20,All-Rounder
+96,Jermaine Blackwood,INDIA,15,T20,All-Rounder
+98,Aiden Markram,INDIA,14,T20,All-Rounder
+99,Harry Brook,INDIA,13,T20,All-Rounder
+100,Nandre Burger,INDIA,12,T20,All-Rounder
