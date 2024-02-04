@@ -12,7 +12,14 @@ from data_io import save_to_csv
 from news_article_urls import news_article_urls
 
 directory = 'data'
-driver = webdriver.Chrome()
+
+chrome_options = webdriver.ChromeOptions()
+chrome_options.add_argument("--headless")
+chrome_options.add_argument("--no-sandbox")
+chrome_options.add_argument("--disable-dev-shm-usage")
+
+driver = webdriver.Chrome(options=chrome_options)
+# driver = webdriver.Chrome()
 
 # extract cricbuzz data
 cricbuzz_data = extract_cricbuzz_data(20)

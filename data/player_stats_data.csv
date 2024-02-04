@@ -1,4 +1,4 @@
-Position,Name,Country,Rating,Game,Category
+position,name,country,rating,game_type,category
 1,Kane Williamson,NEW ZEALAND,864,TEST,Batting
 2,Joe Root,NEW ZEALAND,832,TEST,Batting
 3,Steven Smith,NEW ZEALAND,818,TEST,Batting

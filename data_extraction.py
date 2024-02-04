@@ -38,9 +38,9 @@ def extract_cricbuzz_data(pages_to_scrape=10):
                 result = result_elem.text.strip() if result_elem else ''
 
                 match_data = {
-                    'MatchName': match_name,
-                    'Venue': venue,
-                    'Result': result
+                    'match_name': match_name,
+                    'venue': venue,
+                    'result': result
                 }
                 data_list.append(match_data)
 
@@ -80,10 +80,10 @@ def extract_cricket_news_info(article_urls):
             publication_date = datetime.strptime(date_elem, "%b %d %a %Y %Z %H:%M:%S %f").strftime('%d/%m/%Y') if date_elem else 'N/A'
 
             data_list.append({
-                'Headline': headline,
-                'Content': content,
-                'Author': author,
-                'PublicationDate': publication_date
+                'headline': headline,
+                'content': content,
+                'author': author,
+                'publication_date': publication_date
             })  
 
             print(f"Article {article_url} scraped successfully.")
@@ -131,11 +131,11 @@ def extract_team_stats(driver, stats_url, game_type):
             points = "N/A"
 
         extracted_data.append({
-            'Position': position.text,
-            'Name': name.text,
-            'Rating': rating.text,
-            'Points': points.text,
-            'Game': game_type,
+            'position': position.text,
+            'name': name.text,
+            'rating': rating.text,
+            'points': points.text,
+            'game_type': game_type,
         })
 
     return extracted_data
@@ -182,12 +182,12 @@ def extract_player_stats(driver, stats_url, game_type, category):
         rating = row.find('div', class_='cb-col cb-col-17 cb-rank-tbl pull-right')
    
         extracted_data.append({
-            'Position': position.text,
-            'Name': player_name.text,
-            'Country': country_name.text,
-            'Rating': rating.text,
-            'Game': game_type,
-            'Category': category,
+            'position': position.text,
+            'name': player_name.text,
+            'country': country_name.text,
+            'rating': rating.text,
+            'game_type': game_type,
+            'category': category,
         })
 
     return extracted_data

@@ -4,7 +4,8 @@ from psycopg2 import sql
 def create_tables():
     connection = psycopg2.connect(
         host="localhost",
-        database="CricDataEngine",
+        port= 5432,
+        database="cricdataengine",
         user="hanif",
         password="test123"
     )
@@ -63,3 +64,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# psql -d cricdataengine -U hanif

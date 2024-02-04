@@ -1,4 +1,4 @@
-Position,Name,Rating,Points,Game
+position,name,rating,points,game_type
 1,AUSTRALIA,117,4345,TEST
 2,INDIA,117,3746,TEST
 3,ENGLAND,115,4941,TEST
