@@ -20,9 +20,6 @@ import os
 def save_to_hdfs(data, hdfs_path):
     csv_data = data.to_csv(index=False)
     
-    # Connect to HDFS
-    # hdfs_client = InsecureClient('http://<HDFS-NAMENODE-HOST>:<HDFS-NAMENODE-PORT>', user='<HDFS-USERNAME>')
-    # hdfs_client = InsecureClient('http://100.80.154.9:9000', user='hanif')
     try:
         hdfs_client = InsecureClient('http://master-node:9870', user='hanif')
         print("hdf_client: ", hdfs_client)
@@ -51,8 +48,14 @@ data = {'match_name': ['Match1', 'Match2', 'Match3'],
 
 cricbuzz_data = pd.DataFrame(data)
 
-# hdfs_path = '/home/notebook/CricDataEngine/Data/cricbuzz_data.csv' 
+
 hdfs_path = '/home/hanif/CricDataEngine/data/cricbuzz_data.csv' 
+
+# check if the file exists, print the file path, if not print file not found
+if os.path.exists(hdfs_path):
+    print(f'File path: {hdfs_path}')
+else:
+    print('File not found')
 
 save_to_hdfs(cricbuzz_data, hdfs_path)
 
