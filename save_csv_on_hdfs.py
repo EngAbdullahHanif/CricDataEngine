@@ -14,13 +14,15 @@
 
 import pandas as pd
 from hdfs import InsecureClient
+from hdfs.ext.kerberos import KerberosClient
 
 def save_to_hdfs(data, hdfs_path):
     csv_data = data.to_csv(index=False)
     
     # Connect to HDFS
     # hdfs_client = InsecureClient('http://<HDFS-NAMENODE-HOST>:<HDFS-NAMENODE-PORT>', user='<HDFS-USERNAME>')
-    hdfs_client = InsecureClient('http://100.80.154.9:9000', user='hanif')
+    # hdfs_client = InsecureClient('http://100.80.154.9:9000', user='hanif')
+    hdfs_client = KerberosClient('http://master-node:9870','OPTIONAL')
 
     # Write CSV data to HDFS
     with hdfs_client.write(hdfs_path, encoding='utf-8') as hdfs_file:
