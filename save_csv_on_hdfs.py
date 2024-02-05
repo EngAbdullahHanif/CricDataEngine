@@ -26,6 +26,7 @@ def save_to_hdfs(data, hdfs_path):
     print('Connecting to HDFS')
     try:
         hdfs_client = InsecureClient('http://master-node:9870', user='hanif')
+        print("hdf_client: ", hdfs_client)
         print('Connected to HDFS')
     except Exception as e:
         print('Failed to connect to HDFS')
@@ -53,8 +54,11 @@ print('DataFrame created')
 print('Saving to HDFS')
 # hdfs_path = '/home/notebook/CricDataEngine/Data/cricbuzz_data.csv' 
 hdfs_path = '/home/hanif/CricDataEngine/data/cricbuzz_data.csv' 
-# find this file and print if found using import os; os.listdir('/home/hanif/CricDataEngine/data')
-print(os.listdir('/home/hanif/CricDataEngine/data'))
+# print if the hdfs_path exists
+if os.path.exists(hdfs_path):
+    print('File exists')
+else:
+    print('File does not exist')
 
 save_to_hdfs(cricbuzz_data, hdfs_path)
 print('Data saved to HDFS')
