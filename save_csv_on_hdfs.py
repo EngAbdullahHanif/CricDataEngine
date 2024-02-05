@@ -35,8 +35,10 @@ def save_to_hdfs(data, hdfs_path):
 
     try:
         with hdfs_client.write(hdfs_path, encoding='utf-8') as hdfs_file:
+            print('Writing data to HDFS')
             hdfs_file.write(csv_data)
-        print('Data written to HDFS')
+            print('Data written to HDFS')
+
     except Exception as e:
         print('Failed to write data to HDFS')
         print(e)
