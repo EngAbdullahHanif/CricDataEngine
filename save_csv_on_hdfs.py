@@ -15,6 +15,7 @@
 import pandas as pd
 from hdfs import InsecureClient
 from hdfs.ext.kerberos import KerberosClient
+import os
 
 def save_to_hdfs(data, hdfs_path):
     csv_data = data.to_csv(index=False)
@@ -32,7 +33,6 @@ def save_to_hdfs(data, hdfs_path):
         return
 
     try:
-        # Write CSV data to HDFS
         with hdfs_client.write(hdfs_path, encoding='utf-8') as hdfs_file:
             hdfs_file.write(csv_data)
         print('Data written to HDFS')
@@ -53,5 +53,8 @@ print('DataFrame created')
 print('Saving to HDFS')
 # hdfs_path = '/home/notebook/CricDataEngine/Data/cricbuzz_data.csv' 
 hdfs_path = '/home/hanif/CricDataEngine/data/cricbuzz_data.csv' 
+# find this file and print if found using import os; os.listdir('/home/hanif/CricDataEngine/data')
+print(os.listdir('/home/hanif/CricDataEngine/data'))
+
 save_to_hdfs(cricbuzz_data, hdfs_path)
 print('Data saved to HDFS')
