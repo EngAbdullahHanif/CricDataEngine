@@ -55,10 +55,10 @@ print('Saving to HDFS')
 # hdfs_path = '/home/notebook/CricDataEngine/Data/cricbuzz_data.csv' 
 hdfs_path = '/home/hanif/CricDataEngine/data/cricbuzz_data.csv' 
 # print if the hdfs_path exists
+
+save_to_hdfs(cricbuzz_data, hdfs_path)
 if os.path.exists(hdfs_path):
     print('File exists')
 else:
     print('File does not exist')
-
-save_to_hdfs(cricbuzz_data, hdfs_path)
 print('Data saved to HDFS')
