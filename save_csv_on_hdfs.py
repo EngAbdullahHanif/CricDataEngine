@@ -25,6 +25,11 @@ def save_to_hdfs(data, hdfs_path):
     with hdfs_client.write(hdfs_path, encoding='utf-8') as hdfs_file:
         hdfs_file.write(csv_data)
 
-cricbuzz_data = pd.DataFrame(...)  
+data = {'match_name': ['Match1', 'Match2', 'Match3'],
+        'venue': ['Venue1', 'Venue2', 'Venue3'],
+        'result': ['Win', 'Loss', 'Draw']}
+
+cricbuzz_data = pd.DataFrame(data)
+
 hdfs_path = '/user/hanif/CricDataEngine/Data/cricbuzz_data.csv'  # Example HDFS path, adjust as needed
 save_to_hdfs(cricbuzz_data, hdfs_path)
